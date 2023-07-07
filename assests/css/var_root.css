@@ -1,0 +1,7 @@
+:root {
+   --color-1: rgba(0, 0, 218, 0.877);
+   --color-2: rgb(245, 245, 245);
+   --color-ganhos: hsla(120, 99%, 31%, 0.521);
+   --color-gastos: hsla(0, 99%, 31%, 0.521);
+   --color-investimentos: hsla(0, 99%, 31%, 0.521)
+}
